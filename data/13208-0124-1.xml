@@ -1,0 +1,5345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<地図 xmlns="http://www.moj.go.jp/MINJI/tizuxml" xmlns:zmn="http://www.moj.go.jp/MINJI/tizuzumen" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.moj.go.jp/MINJI/tizuxml tizuxml.xsd">
+	<version>ver1.0</version>
+	<地図名>国領町２丁目</地図名>
+	<市区町村コード>13208</市区町村コード>
+	<市区町村名>調布市</市区町村名>
+	<座標系>任意座標系</座標系>
+	<空間属性>
+		<zmn:GM_Point id="P000000001">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>172.026</zmn:X>
+					<zmn:Y>118.981</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000002">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>164.219</zmn:X>
+					<zmn:Y>107.388</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000003">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>148.351</zmn:X>
+					<zmn:Y>84.233</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000004">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>137.397</zmn:X>
+					<zmn:Y>69.344</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000005">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>120.896</zmn:X>
+					<zmn:Y>45.961</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000006">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>115.377</zmn:X>
+					<zmn:Y>37.849</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000007">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>94.881</zmn:X>
+					<zmn:Y>169.790</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000008">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>90.501</zmn:X>
+					<zmn:Y>162.196</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000009">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>182.655</zmn:X>
+					<zmn:Y>134.789</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000010">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>174.775</zmn:X>
+					<zmn:Y>142.913</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000011">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>168.850</zmn:X>
+					<zmn:Y>152.578</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000012">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>172.143</zmn:X>
+					<zmn:Y>123.967</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000013">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>152.529</zmn:X>
+					<zmn:Y>156.439</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000014">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>149.828</zmn:X>
+					<zmn:Y>160.385</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000015">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>146.845</zmn:X>
+					<zmn:Y>163.916</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000016">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>143.483</zmn:X>
+					<zmn:Y>167.126</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000017">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>139.808</zmn:X>
+					<zmn:Y>169.984</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000018">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>135.882</zmn:X>
+					<zmn:Y>172.395</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000019">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>131.673</zmn:X>
+					<zmn:Y>174.423</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000020">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>127.405</zmn:X>
+					<zmn:Y>175.942</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000021">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>122.919</zmn:X>
+					<zmn:Y>177.015</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000022">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>118.278</zmn:X>
+					<zmn:Y>177.642</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000023">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>102.996</zmn:X>
+					<zmn:Y>178.845</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000024">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>97.584</zmn:X>
+					<zmn:Y>169.305</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000025">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>93.364</zmn:X>
+					<zmn:Y>161.522</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000026">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>89.022</zmn:X>
+					<zmn:Y>153.198</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000027">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>81.439</zmn:X>
+					<zmn:Y>137.765</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000028">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>77.572</zmn:X>
+					<zmn:Y>129.540</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000029">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>73.770</zmn:X>
+					<zmn:Y>121.094</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000030">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>70.221</zmn:X>
+					<zmn:Y>112.808</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000031">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>153.422</zmn:X>
+					<zmn:Y>178.165</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000032">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>145.684</zmn:X>
+					<zmn:Y>191.942</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000033">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>156.611</zmn:X>
+					<zmn:Y>172.890</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000034">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>144.090</zmn:X>
+					<zmn:Y>181.578</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000035">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>139.050</zmn:X>
+					<zmn:Y>184.329</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000036">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>114.204</zmn:X>
+					<zmn:Y>189.990</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000037">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>122.211</zmn:X>
+					<zmn:Y>189.360</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000038">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>128.031</zmn:X>
+					<zmn:Y>188.235</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000039">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>133.665</zmn:X>
+					<zmn:Y>186.569</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000040">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>118.631</zmn:X>
+					<zmn:Y>195.807</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000041">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>116.698</zmn:X>
+					<zmn:Y>202.839</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000042">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>124.401</zmn:X>
+					<zmn:Y>230.274</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000043">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>122.058</zmn:X>
+					<zmn:Y>225.777</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000044">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>111.912</zmn:X>
+					<zmn:Y>194.416</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000045">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>102.352</zmn:X>
+					<zmn:Y>190.969</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000046">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>110.403</zmn:X>
+					<zmn:Y>36.600</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000047">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>104.501</zmn:X>
+					<zmn:Y>39.883</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000048">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>99.394</zmn:X>
+					<zmn:Y>43.046</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000049">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>109.733</zmn:X>
+					<zmn:Y>29.513</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000050">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>101.936</zmn:X>
+					<zmn:Y>31.606</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000051">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>99.068</zmn:X>
+					<zmn:Y>185.130</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000052">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>101.326</zmn:X>
+					<zmn:Y>181.085</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000053">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>81.129</zmn:X>
+					<zmn:Y>151.638</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000054">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>84.993</zmn:X>
+					<zmn:Y>145.416</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000055">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>78.330</zmn:X>
+					<zmn:Y>133.706</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000056">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>66.970</zmn:X>
+					<zmn:Y>121.703</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000057">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>68.223</zmn:X>
+					<zmn:Y>123.777</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000058">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>71.605</zmn:X>
+					<zmn:Y>121.869</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000059">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>53.241</zmn:X>
+					<zmn:Y>74.848</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000060">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>73.794</zmn:X>
+					<zmn:Y>110.839</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000061">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>104.422</zmn:X>
+					<zmn:Y>93.669</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000062">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>89.614</zmn:X>
+					<zmn:Y>65.379</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000063">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>92.592</zmn:X>
+					<zmn:Y>47.624</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000064">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>47.126</zmn:X>
+					<zmn:Y>69.715</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000065">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>70.315</zmn:X>
+					<zmn:Y>53.561</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000066">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>43.159</zmn:X>
+					<zmn:Y>73.174</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000067">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>69.092</zmn:X>
+					<zmn:Y>118.609</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000068">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>67.998</zmn:X>
+					<zmn:Y>116.631</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000069">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>83.862</zmn:X>
+					<zmn:Y>151.439</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000070">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>84.703</zmn:X>
+					<zmn:Y>153.288</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000071">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>124.788</zmn:X>
+					<zmn:Y>229.547</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000072">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>46.694</zmn:X>
+					<zmn:Y>79.364</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000073">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>50.322</zmn:X>
+					<zmn:Y>85.745</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000074">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>66.903</zmn:X>
+					<zmn:Y>114.717</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000075">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>158.995</zmn:X>
+					<zmn:Y>168.878</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000076">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>89.761</zmn:X>
+					<zmn:Y>163.333</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000077">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>128.272</zmn:X>
+					<zmn:Y>223.195</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000078">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>87.291</zmn:X>
+					<zmn:Y>158.898</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000079">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>82.091</zmn:X>
+					<zmn:Y>154.250</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000080">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>140.752</zmn:X>
+					<zmn:Y>200.663</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000081">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>134.334</zmn:X>
+					<zmn:Y>212.325</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000082">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>159.123</zmn:X>
+					<zmn:Y>168.720</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000083">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>71.784</zmn:X>
+					<zmn:Y>52.558</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000084">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>50.980</zmn:X>
+					<zmn:Y>86.862</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000085">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>60.459</zmn:X>
+					<zmn:Y>103.422</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000086">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>61.115</zmn:X>
+					<zmn:Y>104.602</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000087">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>54.193</zmn:X>
+					<zmn:Y>76.514</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000088">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>54.587</zmn:X>
+					<zmn:Y>76.218</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000089">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>74.191</zmn:X>
+					<zmn:Y>110.617</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000090">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>48.071</zmn:X>
+					<zmn:Y>81.786</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Point id="P000000091">
+			<zmn:GM_Point.position>
+				<zmn:DirectPosition>
+					<zmn:X>100.141</zmn:X>
+					<zmn:Y>179.008</zmn:Y>
+				</zmn:DirectPosition>
+			</zmn:GM_Point.position>
+		</zmn:GM_Point>
+		<zmn:GM_Curve id="C000000001">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000001"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.direct>
+								<zmn:X>164.219</zmn:X>
+								<zmn:Y>107.388</zmn:Y>
+							</zmn:GM_Position.direct>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.direct>
+								<zmn:X>172.026</zmn:X>
+								<zmn:Y>118.981</zmn:Y>
+							</zmn:GM_Position.direct>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000002">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000002"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.direct>
+								<zmn:X>153.422</zmn:X>
+								<zmn:Y>178.165</zmn:Y>
+							</zmn:GM_Position.direct>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.direct>
+								<zmn:X>145.684</zmn:X>
+								<zmn:Y>191.942</zmn:Y>
+							</zmn:GM_Position.direct>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000003">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000003"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.direct>
+								<zmn:X>124.401</zmn:X>
+								<zmn:Y>230.274</zmn:Y>
+							</zmn:GM_Position.direct>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.direct>
+								<zmn:X>122.058</zmn:X>
+								<zmn:Y>225.777</zmn:Y>
+							</zmn:GM_Position.direct>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000004">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000004"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.direct>
+								<zmn:X>94.881</zmn:X>
+								<zmn:Y>169.790</zmn:Y>
+							</zmn:GM_Position.direct>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.direct>
+								<zmn:X>90.501</zmn:X>
+								<zmn:Y>162.196</zmn:Y>
+							</zmn:GM_Position.direct>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000005">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000005"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000001"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000012"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000006">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000006"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000012"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000013"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000007">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000007"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000013"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000014"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000008">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000008"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000014"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000015"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000009">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000009"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000015"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000016"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000010">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000010"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000016"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000017"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000011">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000011"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000017"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000018"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000012">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000012"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000018"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000019"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000013">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000013"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000019"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000020"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000014">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000014"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000020"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000021"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000015">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000015"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000021"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000022"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000016">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000016"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000022"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000023"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000017">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000017"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000023"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000024"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000018">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000018"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000024"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000025"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000019">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000019"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000025"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000026"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000020">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000020"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000026"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000027"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000021">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000021"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000027"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000028"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000022">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000022"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000028"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000029"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000023">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000023"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000029"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000030"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000024">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000024"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000030"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000060"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000025">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000025"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000060"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000089"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000026">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000026"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000089"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000061"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000027">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000027"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000061"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000062"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000028">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000028"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000062"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000063"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000029">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000029"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000063"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000048"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000030">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000030"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000048"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000047"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000031">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000031"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000047"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000046"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000032">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000032"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000046"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000006"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000033">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000033"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000006"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000005"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000034">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000034"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000005"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000004"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000035">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000035"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000004"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000003"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000036">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000036"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000003"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000002"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000037">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000037"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000002"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000001"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000038">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000038"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000046"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000047"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000039">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000039"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000047"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000048"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000040">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000040"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000048"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000063"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000041">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000041"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000063"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000059"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000042">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000042"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000059"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000072"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000043">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000043"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000072"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000066"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000044">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000044"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000066"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000064"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000045">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000045"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000064"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000065"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000046">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000046"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000065"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000083"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000047">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000047"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000083"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000050"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000048">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000048"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000050"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000049"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000049">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000049"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000049"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000006"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000050">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000050"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000006"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000046"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000051">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000051"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000063"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000062"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000052">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000052"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000062"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000061"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000053">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000053"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000061"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000089"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000054">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000054"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000089"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000088"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000055">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000055"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000088"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000063"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000056">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000056"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000087"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000060"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000057">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000057"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000060"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000030"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000058">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000058"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000030"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000074"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000059">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000059"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000074"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000086"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000060">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000060"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000086"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000085"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000061">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000061"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000085"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000084"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000062">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000062"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000084"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000073"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000063">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000063"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000073"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000090"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000064">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000064"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000090"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000087"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000065">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000065"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000032"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000080"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000066">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000066"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000080"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000081"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000067">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000067"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000081"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000077"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000068">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000068"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000077"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000041"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000069">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000069"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000041"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000040"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000070">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000070"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000040"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000035"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000071">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000071"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000035"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000034"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000072">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000072"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000034"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000033"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000073">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000073"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000033"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000031"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000074">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000074"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000031"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000032"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000075">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000075"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000043"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000045"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000076">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000076"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000045"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000036"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000077">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000077"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000036"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000044"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000078">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000078"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000044"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000041"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000079">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000079"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000041"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000077"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000080">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000080"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000077"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000071"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000081">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000081"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000071"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000042"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000082">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000082"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000042"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000043"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000083">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000083"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000037"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000038"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000084">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000084"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000038"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000039"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000085">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000085"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000039"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000035"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000086">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000086"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000035"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000040"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000087">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000087"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000040"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000041"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000088">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000088"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000041"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000044"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000089">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000089"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000044"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000036"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000090">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000090"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000036"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000037"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000091">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000091"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000088"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000089"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000092">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000092"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000089"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000060"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000093">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000093"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000060"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000087"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000094">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000094"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000087"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000088"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000095">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000095"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000063"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000088"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000096">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000096"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000088"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000087"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000097">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000097"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000087"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000059"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000098">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000098"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000059"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000063"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000099">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000099"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000087"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000090"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000100">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000100"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000090"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000072"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000101">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000101"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000072"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000059"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000102">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000102"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000059"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000087"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000103">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000103"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000036"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000045"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000104">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000104"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000045"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000051"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000105">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000105"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000051"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000052"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000106">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000106"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000052"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000091"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000107">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000107"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000091"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000023"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000108">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000108"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000023"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000022"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000109">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000109"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000022"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000021"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000110">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000110"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000021"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000020"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000111">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000111"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000020"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000019"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000112">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000112"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000019"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000018"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000113">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000113"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000018"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000017"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000114">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000114"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000017"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000016"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000115">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000115"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000016"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000015"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000116">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000116"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000015"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000014"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000117">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000117"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000014"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000013"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000118">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000118"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000013"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000012"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000119">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000119"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000012"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000001"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000120">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000120"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000001"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000009"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000121">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000121"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000009"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000010"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000122">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000122"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000010"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000011"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000123">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000123"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000011"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000082"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000124">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000124"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000082"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000075"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000125">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000125"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000075"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000033"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000126">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000126"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000033"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000034"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000127">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000127"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000034"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000035"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000128">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000128"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000035"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000039"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000129">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000129"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000039"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000038"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000130">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000130"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000038"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000037"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000131">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000131"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000037"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000036"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000132">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000132"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000023"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000091"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000133">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000133"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000091"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000007"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000134">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000134"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000007"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000008"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000135">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000135"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000008"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000076"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000136">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000136"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000076"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000078"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000137">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000137"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000078"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000070"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000138">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000138"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000070"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000069"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000139">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000139"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000069"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000079"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000140">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000140"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000079"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000053"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000141">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000141"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000053"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000054"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000142">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000142"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000054"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000055"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000143">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000143"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000055"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000058"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000144">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000144"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000058"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000057"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000145">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000145"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000057"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000056"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000146">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000146"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000056"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000067"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000147">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000147"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000067"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000068"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000148">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000148"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000068"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000074"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000149">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000149"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000074"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000030"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000150">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000150"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000030"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000029"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000151">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000151"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000029"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000028"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000152">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000152"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000028"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000027"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000153">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000153"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000027"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000026"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000154">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000154"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000026"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000025"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000155">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000155"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000025"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000024"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Curve id="C000000156">
+			<zmn:GM_OrientablePrimitive.orientation>+</zmn:GM_OrientablePrimitive.orientation>
+			<zmn:GM_OrientablePrimitive.primitive idref="C000000156"/>
+			<zmn:GM_Curve.segment>
+				<zmn:GM_LineString>
+					<zmn:GM_LineString.controlPoint>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000024"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+						<zmn:GM_PointArray.column>
+							<zmn:GM_Position.indirect>
+								<zmn:GM_PointRef.point idref="P000000023"/>
+							</zmn:GM_Position.indirect>
+						</zmn:GM_PointArray.column>
+					</zmn:GM_LineString.controlPoint>
+				</zmn:GM_LineString>
+			</zmn:GM_Curve.segment>
+		</zmn:GM_Curve>
+		<zmn:GM_Surface id="F000000001">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000005"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000006"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000007"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000008"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000009"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000010"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000011"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000012"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000013"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000014"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000015"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000016"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000017"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000018"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000019"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000020"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000021"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000022"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000023"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000024"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000025"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000026"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000027"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000028"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000029"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000030"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000031"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000032"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000033"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000034"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000035"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000036"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000037"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000002">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000038"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000039"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000040"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000041"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000042"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000043"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000044"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000045"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000046"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000047"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000048"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000049"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000050"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000003">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000051"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000052"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000053"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000054"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000055"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000004">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000056"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000057"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000058"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000059"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000060"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000061"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000062"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000063"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000064"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000005">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000065"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000066"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000067"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000068"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000069"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000070"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000071"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000072"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000073"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000074"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000006">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000075"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000076"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000077"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000078"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000079"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000080"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000081"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000082"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000007">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000083"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000084"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000085"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000086"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000087"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000088"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000089"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000090"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000008">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000091"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000092"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000093"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000094"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000009">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000095"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000096"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000097"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000098"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000010">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000099"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000100"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000101"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000102"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000011">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000103"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000104"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000105"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000106"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000107"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000108"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000109"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000110"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000111"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000112"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000113"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000114"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000115"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000116"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000117"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000118"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000119"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000120"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000121"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000122"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000123"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000124"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000125"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000126"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000127"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000128"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000129"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000130"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000131"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+		<zmn:GM_Surface id="F000000012">
+			<zmn:GM_Surface.patch>
+				<zmn:GM_Polygon>
+					<zmn:GM_Polygon.boundary>
+						<zmn:GM_SurfaceBoundary>
+							<zmn:GM_SurfaceBoundary.exterior>
+								<zmn:GM_Ring>
+									<zmn:GM_CompositeCurve.generator idref="C000000132"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000133"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000134"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000135"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000136"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000137"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000138"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000139"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000140"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000141"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000142"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000143"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000144"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000145"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000146"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000147"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000148"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000149"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000150"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000151"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000152"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000153"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000154"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000155"/>
+									<zmn:GM_CompositeCurve.generator idref="C000000156"/>
+								</zmn:GM_Ring>
+							</zmn:GM_SurfaceBoundary.exterior>
+						</zmn:GM_SurfaceBoundary>
+					</zmn:GM_Polygon.boundary>
+				</zmn:GM_Polygon>
+			</zmn:GM_Surface.patch>
+		</zmn:GM_Surface>
+	</空間属性>
+	<主題属性>
+		<筆界点>
+			<点番名>199525</点番名>
+			<形状 idref="P000000001"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199526</点番名>
+			<形状 idref="P000000002"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199527</点番名>
+			<形状 idref="P000000003"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199528</点番名>
+			<形状 idref="P000000004"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199529</点番名>
+			<形状 idref="P000000005"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199530</点番名>
+			<形状 idref="P000000006"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199531</点番名>
+			<形状 idref="P000000007"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199532</点番名>
+			<形状 idref="P000000008"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199533</点番名>
+			<形状 idref="P000000009"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199534</点番名>
+			<形状 idref="P000000010"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199535</点番名>
+			<形状 idref="P000000011"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199536</点番名>
+			<形状 idref="P000000012"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199537</点番名>
+			<形状 idref="P000000013"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199538</点番名>
+			<形状 idref="P000000014"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199539</点番名>
+			<形状 idref="P000000015"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199540</点番名>
+			<形状 idref="P000000016"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199541</点番名>
+			<形状 idref="P000000017"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199542</点番名>
+			<形状 idref="P000000018"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199543</点番名>
+			<形状 idref="P000000019"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199544</点番名>
+			<形状 idref="P000000020"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199545</点番名>
+			<形状 idref="P000000021"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199546</点番名>
+			<形状 idref="P000000022"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199547</点番名>
+			<形状 idref="P000000023"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199548</点番名>
+			<形状 idref="P000000024"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199549</点番名>
+			<形状 idref="P000000025"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199550</点番名>
+			<形状 idref="P000000026"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199551</点番名>
+			<形状 idref="P000000027"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199552</点番名>
+			<形状 idref="P000000028"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199553</点番名>
+			<形状 idref="P000000029"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199554</点番名>
+			<形状 idref="P000000030"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199555</点番名>
+			<形状 idref="P000000031"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199556</点番名>
+			<形状 idref="P000000032"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199557</点番名>
+			<形状 idref="P000000033"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199558</点番名>
+			<形状 idref="P000000034"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199559</点番名>
+			<形状 idref="P000000035"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199560</点番名>
+			<形状 idref="P000000036"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199561</点番名>
+			<形状 idref="P000000037"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199562</点番名>
+			<形状 idref="P000000038"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199563</点番名>
+			<形状 idref="P000000039"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199564</点番名>
+			<形状 idref="P000000040"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199565</点番名>
+			<形状 idref="P000000041"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199566</点番名>
+			<形状 idref="P000000042"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199567</点番名>
+			<形状 idref="P000000043"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199568</点番名>
+			<形状 idref="P000000044"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199569</点番名>
+			<形状 idref="P000000045"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199570</点番名>
+			<形状 idref="P000000046"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199571</点番名>
+			<形状 idref="P000000047"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199572</点番名>
+			<形状 idref="P000000048"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199573</点番名>
+			<形状 idref="P000000049"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199574</点番名>
+			<形状 idref="P000000050"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199575</点番名>
+			<形状 idref="P000000051"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199576</点番名>
+			<形状 idref="P000000052"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199577</点番名>
+			<形状 idref="P000000053"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199578</点番名>
+			<形状 idref="P000000054"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199579</点番名>
+			<形状 idref="P000000055"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199580</点番名>
+			<形状 idref="P000000056"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199581</点番名>
+			<形状 idref="P000000057"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199582</点番名>
+			<形状 idref="P000000058"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199583</点番名>
+			<形状 idref="P000000059"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199584</点番名>
+			<形状 idref="P000000060"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199585</点番名>
+			<形状 idref="P000000061"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199586</点番名>
+			<形状 idref="P000000062"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199587</点番名>
+			<形状 idref="P000000063"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199588</点番名>
+			<形状 idref="P000000064"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199589</点番名>
+			<形状 idref="P000000065"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199590</点番名>
+			<形状 idref="P000000066"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199591</点番名>
+			<形状 idref="P000000067"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199592</点番名>
+			<形状 idref="P000000068"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199593</点番名>
+			<形状 idref="P000000069"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199594</点番名>
+			<形状 idref="P000000070"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199595</点番名>
+			<形状 idref="P000000071"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199596</点番名>
+			<形状 idref="P000000072"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199597</点番名>
+			<形状 idref="P000000073"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199598</点番名>
+			<形状 idref="P000000074"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199599</点番名>
+			<形状 idref="P000000075"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199600</点番名>
+			<形状 idref="P000000076"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199601</点番名>
+			<形状 idref="P000000077"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199602</点番名>
+			<形状 idref="P000000078"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199603</点番名>
+			<形状 idref="P000000079"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199604</点番名>
+			<形状 idref="P000000080"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199605</点番名>
+			<形状 idref="P000000081"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199606</点番名>
+			<形状 idref="P000000082"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199607</点番名>
+			<形状 idref="P000000083"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199608</点番名>
+			<形状 idref="P000000084"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199609</点番名>
+			<形状 idref="P000000085"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199610</点番名>
+			<形状 idref="P000000086"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199611</点番名>
+			<形状 idref="P000000087"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199612</点番名>
+			<形状 idref="P000000088"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199613</点番名>
+			<形状 idref="P000000089"/>
+		</筆界点>
+		<筆界点>
+			<点番名>199614</点番名>
+			<形状 idref="P000000090"/>
+		</筆界点>
+		<筆界点>
+			<点番名>2365086</点番名>
+			<形状 idref="P000000091"/>
+		</筆界点>
+		<筆界線>
+			<形状 idref="C000000005"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000006"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000007"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000008"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000009"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000010"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000011"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000012"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000013"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000014"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000015"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000016"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000017"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000018"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000019"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000020"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000021"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000022"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000023"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000024"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000025"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000026"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000027"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000028"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000029"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000030"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000031"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000032"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000033"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000034"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000035"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000036"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000037"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000038"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000039"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000040"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000041"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000042"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000043"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000044"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000045"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000046"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000047"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000048"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000049"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000050"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000051"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000052"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000053"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000054"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000055"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000056"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000057"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000058"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000059"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000060"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000061"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000062"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000063"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000064"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000065"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000066"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000067"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000068"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000069"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000070"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000071"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000072"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000073"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000074"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000075"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000076"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000077"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000078"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000079"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000080"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000081"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000082"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000083"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000084"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000085"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000086"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000087"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000088"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000089"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000090"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000091"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000092"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000093"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000094"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000095"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000096"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000097"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000098"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000099"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000100"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000101"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000102"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000103"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000104"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000105"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000106"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000107"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000108"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000109"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000110"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000111"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000112"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000113"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000114"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000115"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000116"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000117"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000118"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000119"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000120"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000121"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000122"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000123"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000124"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000125"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000126"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000127"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000128"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000129"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000130"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000131"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000132"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000133"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000134"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000135"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000136"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000137"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000138"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000139"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000140"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000141"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000142"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000143"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000144"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000145"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000146"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000147"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000148"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000149"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000150"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000151"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000152"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000153"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000154"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000155"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆界線>
+			<形状 idref="C000000156"/>
+			<線種別>筆界線</線種別>
+		</筆界線>
+		<筆 id="H000000001">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-15</地番>
+			<形状 idref="F000000001"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000002">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-16</地番>
+			<形状 idref="F000000002"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000003">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-17</地番>
+			<形状 idref="F000000003"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000004">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-18</地番>
+			<形状 idref="F000000004"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000005">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-21</地番>
+			<形状 idref="F000000005"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000006">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-22</地番>
+			<形状 idref="F000000006"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000007">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-23</地番>
+			<形状 idref="F000000007"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000008">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-24</地番>
+			<形状 idref="F000000008"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000009">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-25</地番>
+			<形状 idref="F000000009"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000010">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-26</地番>
+			<形状 idref="F000000010"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000011">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-20</地番>
+			<形状 idref="F000000011"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+		<筆 id="H000000012">
+			<大字コード>011</大字コード>
+			<丁目コード>002</丁目コード>
+			<小字コード>0000</小字コード>
+			<予備コード>00</予備コード>
+			<大字名>国領町</大字名>
+			<丁目名>２丁目</丁目名>
+			<地番>5-19</地番>
+			<形状 idref="F000000012"/>
+			<精度区分>甲二</精度区分>
+			<座標値種別>図上測量</座標値種別>
+		</筆>
+	</主題属性>
+	<図郭>
+		<地図番号>1168-2</地図番号>
+		<縮尺分母>500</縮尺分母>
+		<方位不明フラグ>false</方位不明フラグ>
+		<左下座標>
+			<zmn:X>-32.497</zmn:X>
+			<zmn:Y>-25.202</zmn:Y>
+		</左下座標>
+		<左上座標>
+			<zmn:X>217.503</zmn:X>
+			<zmn:Y>-24.846</zmn:Y>
+		</左上座標>
+		<右下座標>
+			<zmn:X>-32.925</zmn:X>
+			<zmn:Y>274.797</zmn:Y>
+		</右下座標>
+		<右上座標>
+			<zmn:X>217.075</zmn:X>
+			<zmn:Y>275.154</zmn:Y>
+		</右上座標>
+		<地図種類>その他</地図種類>
+		<地図分類>地図に準ずる図面</地図分類>
+		<地図材質>P-F</地図材質>
+		<地図作成年月日>
+			<年>2002</年>
+			<月>3</月>
+			<日>7</日>
+		</地図作成年月日>
+		<筆参照 idref="H000000001"/>
+		<筆参照 idref="H000000002"/>
+		<筆参照 idref="H000000003"/>
+		<筆参照 idref="H000000004"/>
+		<筆参照 idref="H000000005"/>
+		<筆参照 idref="H000000006"/>
+		<筆参照 idref="H000000007"/>
+		<筆参照 idref="H000000008"/>
+		<筆参照 idref="H000000009"/>
+		<筆参照 idref="H000000010"/>
+		<筆参照 idref="H000000011"/>
+		<筆参照 idref="H000000012"/>
+	</図郭>
+</地図>
